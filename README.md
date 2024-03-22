@@ -61,45 +61,13 @@ Após o envio dos e-mails, o programa gera um relatório em PDF com as métricas
 
 ## Autor
 
-Felipe Clarindo!
+ **Felipe Clarindo**
+  - [LinkedIn](https://www.linkedin.com/in/felipe-clarindo-934578289/)
+  - [Instagram](https://www.instagram.com/lipethegoat)
+  - [GitHub](https://github.com/felipeclarindo)
 
 
+## Licença
 
+Este projeto está licenciado sob a [GNU Affero License](https://www.gnu.org/licenses/agpl-3.0.html).
 
-<!-- # Programa de Envio de E-mails
-
-Este é um programa simples em Python que permite enviar e-mails, agendar o envio de e-mails, gerar relatórios detalhados sobre os e-mails enviados e salvar esses relatórios em formato PDF.
-
-## Funcionalidades
-
-- Envio de e-mails para destinatários individuais.
-- Agendamento de envio de e-mails para um horário específico.
-- Geração de relatórios detalhados sobre os e-mails enviados, incluindo a taxa de entrega, taxa de abertura e taxa de cliques.
-- Salvamento dos relatórios em formato PDF.
-
-## Requisitos
-
-- Python 3.x
-- Bibliotecas: `smtplib`, `ssl`, `time`, `schedule`, `requests`, `json`, `reportlab`,`os`
-- Uma conta de e-mail Gmail para enviar os e-mails.
-
-## Como Executar
-
-1. Certifique-se de ter as bibliotecas necessárias instaladas. Você pode instalar as bibliotecas usando o seguinte comando:
-Certifique-se de ter as seguintes bibliotecas instaladas:
-
-Será necessario instalar as seguintes bibliotecas: 
-
-- `secure-smtplib` (envio de emails)
-- `schedule` (agendamento de tarefas)
-- `requests` (requisições HTTP)
-- `reportlab` (geração de PDFs)
-
-
-As seguintes bibliotecas fazem parte da biblioteca padrão do Python e não requerem instalação adicional:
-
-- `ssl` (segurança para conexões de rede)
-- `time` (gerenciamento de tempo)
-- `json` (manipulação de dados JSON)
-- `os` (operações do sistema operacional)
- -->
